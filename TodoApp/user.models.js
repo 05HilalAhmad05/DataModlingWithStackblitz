@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const UserSchema = new mongoose.Shema({
+const UserSchema = new mongoose.Shcema({
     name:{
         type: String,
         required: ture
